@@ -6,7 +6,7 @@
 ### 👋**خالد سعد ||** **Khaled Saad**
 **Web Developer | Data & AI Enthusiast**
 
-<details>
+
 <br>
 
 [![Website](https://img.shields.io/badge/🌐-My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-link.com)
