@@ -3,9 +3,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-### 👋**خالد سعد ||** **Khaled Saad**
+### 👋**خالد سعد || Khaled Saad**
 **Web Developer | Data & AI Enthusiast**
-
 
 <br>
 
@@ -16,8 +15,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KhaledSaad&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KhaledSaad&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-``
 
+<br>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/KhaledSaad">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledSaad&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/KhaledSaad">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledSaad&layout=compact&theme=radical" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -40,11 +47,4 @@
 ```dart
 // tools_I_use organized
 class About extends Khaled { 
-  const myTools = {  
-    "Web" : { "HTML", "CSS", "JavaScript" },
-    "Data & AI" : { "Python", "SQL" },
-    "Platforms" : { "Linux", "Windows" },
-    "Editors" : { "VSCode" },
-    "OtherTools" : { "Git", "Figma" }
-  };
-}
+  const myToo
