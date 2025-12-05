@@ -7,14 +7,17 @@
 **Web Developer | Data & AI Enthusiast**
 
 <details>
-<p><strong><summary> Coding & Focus playlist 🎧 </summary> </strong></p>
+<br>
 
-[![Spotify]([https://spotify-readme.sp-xd.vercel.app/api/spotify](https://open.spotify.com/album/1T55smTh50LdN3Nm4Y9qHI?si=8ktOse8NQwmdh30MCTXb2w))]
+[![Website](https://img.shields.io/badge/🌐-My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Saad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 
-</details>
+<br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=KhaledSaad&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=KhaledSaad&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KhaledSaad&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+``
+
 
 </div>
 
