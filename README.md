@@ -9,7 +9,7 @@
 <details>
 <p><strong><summary> Coding & Focus playlist 🎧 </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
+[![Spotify]([https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com](https://open.spotify.com/track/2FqywJLrTaNclTbF8l3E0V?flow_ctx=f10363e7-4b4f-4957-839a-2ce8b87f0486%3A1764967952&creation_point=https%3A%2F%2Fopen.spotify.com%2F#login%3Fflow_ctx=f10363e7-4b4f-4957-839a-2ce8b87f0486%3A1764967951))
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=KhaledSaad&style=flat&color=orange&label=PROFILE+VIEWS)
