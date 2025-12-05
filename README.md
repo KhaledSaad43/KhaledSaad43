@@ -9,7 +9,7 @@
 <details>
 <p><strong><summary> Coding & Focus playlist 🎧 </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Khaled_Saad)
 
 </details>
 
