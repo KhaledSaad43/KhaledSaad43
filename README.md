@@ -9,8 +9,8 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐-My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=orange)](https://your-website-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Saad-blue?style=for-the-badge&logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/your-linkedin/)
+[![Website](https://img.shields.io/badge/🌐-My%20Website-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Saad-orange?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 
 <br>
 
